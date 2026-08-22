@@ -1,6 +1,6 @@
 chatbot for faqs
 
-Live demo:https://lnkd.in/gRaR7Ysh
+Live demo:[https://lnkd.in/gRaR7Ysh](https://chatbor-for-faq-3.onrender.com/)
 
 
 An AI-powered FAQ Support Chatbot developed using Flask and NLP techniques.  
