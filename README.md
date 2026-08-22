@@ -1,5 +1,8 @@
 chatbot for faqs
 
+Live demo:https://lnkd.in/gRaR7Ysh
+
+
 An AI-powered FAQ Support Chatbot developed using Flask and NLP techniques.  
 The project is designed to answer common technical support questions related to WiFi, login issues, printers, Windows updates, Bluetooth, laptop performance, and more.
 
